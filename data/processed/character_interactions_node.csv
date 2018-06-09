@@ -1,0 +1,797 @@
+Id,Label,Allegiances,Gender,Nobility,GoT,CoK,SoS,FfC,DwD,Dead
+addam-marbrand,Addam Marbrand,Lannister,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+aegon-frey-(son-of-stevron),Aegon Frey (son of Stevron),,,,,,,,,
+aegon-i-targaryen,Aegon I Targaryen,,,,,,,,,
+aegon-targaryen-(son-of-rhaegar),Aegon Targaryen (son of Rhaegar),,,,,,,,,
+aegon-v-targaryen,Aegon V Targaryen,,,,,,,,,
+aemon-targaryen-(dragonknight),Aemon Targaryen (Dragonknight),,,,,,,,,
+aemon-targaryen-(maester-aemon),Aemon Targaryen (Maester Aemon),Night's Watch,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0
+aenys-frey,Aenys Frey,None,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+aeron-greyjoy,Aeron Greyjoy,Greyjoy,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+aerys-i-targaryen,Aerys I Targaryen,,,,,,,,,
+aerys-ii-targaryen,Aerys II Targaryen,,,,,,,,,
+aggar,Aggar,Greyjoy,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+aggo,Aggo,Targaryen,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0
+alayaya,Alayaya,None,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+albett,Albett,Night's Watch,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+alebelly,Alebelly,Stark,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+alerie-hightower,Alerie Hightower,Tyrell,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+alester-florent,Alester Florent,Baratheon,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0
+alla-tyrell,Alla Tyrell,Tyrell,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+allar-deem,Allar Deem,,,,,,,,,
+allard-seaworth,Allard Seaworth,Baratheon,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+alleras,Alleras,,,,,,,,,
+alliser-thorne,Alliser Thorne,Night's Watch,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0
+alyn,Alyn,Stark,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+alys-arryn,Alys Arryn,,,,,,,,,
+alys-karstark,Alys Karstark,Stark,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+alysane-mormont,Alysane Mormont,Stark,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+amabel,Amabel,,,,,,,,,
+amerei-frey,Amerei Frey,,,,,,,,,
+amory-lorch,Amory Lorch,Lannister,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+anders-yronwood,Anders Yronwood,,,,,,,,,
+andrew-estermont,Andrew Estermont,Baratheon,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+andrey-dalt,Andrey Dalt,Martell,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+anguy,Anguy,None,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+anya-waynwood,Anya Waynwood,Arryn,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+archibald-yronwood,Archibald Yronwood,Martell,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+ardrian-celtigar,Ardrian Celtigar,Baratheon,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+areo-hotah,Areo Hotah,Martell,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+arianne-martell,Arianne Martell,Martell,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0
+armen,Armen,,,,,,,,,
+arnolf-karstark,Arnolf Karstark,Stark,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+aron-santagar,Aron Santagar,Lannister,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+arron,Arron,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+arson,Arson,Wildling,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+arstan,Arstan,,,,,,,,,
+arthor-karstark,Arthor Karstark,Stark,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+arthur-dayne,Arthur Dayne,,,,,,,,,
+arwyn-oakheart,Arwyn Oakheart,Tyrell,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+arya-stark,Arya Stark,Stark,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+arys-oakheart,Arys Oakheart,Lannister,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+asha-greyjoy,Asha Greyjoy,Greyjoy,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0
+ashara-dayne,Ashara Dayne,,,,,,,,,
+aurane-waters,Aurane Waters,Lannister,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+axell-florent,Axell Florent,Baratheon,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+azor-ahai,Azor Ahai,,,,,,,,,
+bael-the-bard,Bael the Bard,,,,,,,,,
+baelor-blacktyde,Baelor Blacktyde,,,,,,,,,
+baelor-i-targaryen,Baelor I Targaryen,,,,,,,,,
+ballabar,Ballabar,Lannister,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+balman-byrch,Balman Byrch,,,,,,,,,
+balon-greyjoy,Balon Greyjoy,,,,,,,,,
+balon-swann,Balon Swann,Lannister,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+bannen,Bannen,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+barbrey-dustin,Barbrey Dustin,Stark,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+barristan-selmy,Barristan Selmy,Targaryen,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0
+barsena,Barsena,None,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+bartimus,Bartimus,,,,,,,,,
+bedwyck,Bedwyck,Night's Watch,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0
+belaquo,Belaquo,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+bellegere-otherys,Bellegere Otherys,,,,,,,,,
+belwas,Belwas,Targaryen,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0
+ben-bones,Ben Bones,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+ben-plumm,Ben Plumm,None,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+benedar-belmore,Benedar Belmore,Arryn,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+benerro,Benerro,,,,,,,,,
+benethon-scales,Benethon Scales,,,,,,,,,
+benfred-tallhart,Benfred Tallhart,Stark,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+benjen-stark,Benjen Stark,Night's Watch,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+beric-dondarrion,Beric Dondarrion,None,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+beth-cassel,Beth Cassel,Stark,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+big-boil,Big Boil,Wildling,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+biter,Biter,None,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+black-balaq,Black Balaq,,,,,,,,,
+blane,Blane,Night's Watch,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+bloodbeard,Bloodbeard,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+blue-bard,Blue Bard,Tyrell,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+bonifer-hasty,Bonifer Hasty,Lannister,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+boros-blount,Boros Blount,Baratheon,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+bowen-marsh,Bowen Marsh,Night's Watch,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+bran-stark,Bran Stark,Stark,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0
+brandon-norrey,Brandon Norrey,Stark,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+brandon-stark,Brandon Stark,,,,,,,,,
+brea,Brea,,,,,,,,,
+brella,Brella,,,,,,,,,
+brenett,Brenett,None,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+brienne-of-tarth,Brienne of Tarth,Stark,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+bronn,Bronn,Lannister,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+brus-buckler,Brus Buckler,,,,,,,,,
+brusco,Brusco,None,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+bryce-caron,Bryce Caron,Baratheon,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+brynden-rivers,Brynden Rivers,Targaryen,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+brynden-tully,Brynden Tully,Tully,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+bump,Bump,,,,,,,,,
+butterbumps,Butterbumps,Tyrell,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+byam-flint,Byam Flint,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+caggo,Caggo,,,,,,,,,
+caleotte,Caleotte,Martell,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+camarron,Camarron,,,,,,,,,
+captain-myraham,Captain Myraham,,,,,,,,,
+captain-myraham-daughter,Captain Myraham Daughter,,,,,,,,,
+catelyn-stark,Catelyn Stark,,,,,,,,,
+cayn,Cayn,Stark,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+cedra,Cedra,,,,,,,,,
+cedric-payne,Cedric Payne,,,,,,,,,
+cellador,Cellador,Night's Watch,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+cersei-lannister,Cersei Lannister,Lannister,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+chataya,Chataya,None,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+chayle,Chayle,Stark,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+chella,Chella,Lannister,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+chett,Chett,Night's Watch,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0
+chiggen,Chiggen,Lannister,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+chiswyck,Chiswyck,None,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+clarence-crabb,Clarence Crabb,,,,,,,,,
+clayton-suggs,Clayton Suggs,Baratheon,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+clement-piper,Clement Piper,Tully,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+cleon,Cleon,,,,,,,,,
+cleos-frey,Cleos Frey,None,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0
+cletus-yronwood,Cletus Yronwood,,,,,,,,,
+cley-cerwyn,Cley Cerwyn,Stark,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+clubfoot-karl,Clubfoot Karl,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+clydas,Clydas,Night's Watch,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0
+cohollo,Cohollo,None,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+coldhands,Coldhands,None,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+colemon,Colemon,Arryn,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+colen-of-greenpools,Colen of Greenpools,Baratheon,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+conn,Conn,Lannister,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+coratt,Coratt,,,,,,,,,
+corliss-penny,Corliss Penny,Baratheon,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+cortnay-penrose,Cortnay Penrose,Baratheon,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+cotter-pyke,Cotter Pyke,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+craster,Craster,None,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+creighton-longbough,Creighton Longbough,None,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+cressen,Cressen,Baratheon,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+cromm,Cromm,,,,,,,,,
+cutjack,Cutjack,None,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+daario-naharis,Daario Naharis,Targaryen,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+dacey-mormont,Dacey Mormont,Stark,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+daemon-sand,Daemon Sand,Martell,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+daenerys-targaryen,Daenerys Targaryen,Targaryen,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0
+daeron-i-targaryen,Daeron I Targaryen,,,,,,,,,
+daeron-ii-targaryen,Daeron II Targaryen,,,,,,,,,
+dagmer,Dagmer,Greyjoy,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+dalbridge,Dalbridge,Night's Watch,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+dalla,Dalla,Wildling,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+damon-dance-for-me,Damon Dance for Me,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+dancy,Dancy,None,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+danwell-frey,Danwell Frey,None,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+dareon,Dareon,Night's Watch,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0
+daryn-hornwood,Daryn Hornwood,Stark,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+daven-lannister,Daven Lannister,Lannister,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+davos-seaworth,Davos Seaworth,Baratheon,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+denyo-terys,Denyo Terys,,,,,,,,,
+denys-darklyn,Denys Darklyn,,,,,,,,,
+denys-mallister,Denys Mallister,Night's Watch,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+denzo-dhan,Denzo Dhan,,,,,,,,,
+desmond,Desmond,Stark,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+desmond-grell,Desmond Grell,Tully,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+devan-seaworth,Devan Seaworth,Baratheon,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+dick-crabb,Dick Crabb,None,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+dick-follard,Dick Follard,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+dick-straw,Dick Straw,,,,,,,,,
+dirk,Dirk,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+dobber,Dobber,None,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+dolf,Dolf,,,,,,,,,
+donal-noye,Donal Noye,Night's Watch,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0
+donella-hornwood,Donella Hornwood,Stark,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+donnel-waynwood,Donnel Waynwood,Tully,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+dontos-hollard,Dontos Hollard,None,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+doran-martell,Doran Martell,Martell,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0
+dorcas,Dorcas,,,,,,,,,
+doreah,Doreah,Targaryen,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+draqaz,Draqaz,None,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+drennan,Drennan,Greyjoy,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+drogo,Drogo,Targaryen,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+dryn,Dryn,,,,,,,,,
+dunsen,Dunsen,None,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+dunstan-drumm,Dunstan Drumm,Greyjoy,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+dywen,Dywen,Night's Watch,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0
+ebben,Ebben,Night's Watch,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+eddard-stark,Eddard Stark,Stark,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+eddison-tollett,Eddison Tollett,Night's Watch,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+edmure-tully,Edmure Tully,Tully,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+edric-storm,Edric Storm,Baratheon,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+edwyn-frey,Edwyn Frey,None,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+elbert-arryn,Elbert Arryn,,,,,,,,,
+elder-brother,Elder Brother,None,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+eldon-estermont,Eldon Estermont,,,,,,,,,
+elia-martell,Elia Martell,,,,,,,,,
+elinor-tyrell,Elinor Tyrell,Tyrell,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+ellaria-sand,Ellaria Sand,Martell,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+elmar-frey,Elmar Frey,None,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+elys-waynwood,Elys Waynwood,,,,,,,,,
+emmett,Emmett,,,,,,,,,
+emmon-cuy,Emmon Cuy,Baratheon,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+emmon-frey,Emmon Frey,Lannister,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+emmond,Emmond,Greyjoy,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+emrick,Emrick,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+eon-hunter,Eon Hunter,Arryn,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+eroeh,Eroeh,Targaryen,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+errok,Errok,,,,,,,,,
+euron-greyjoy,Euron Greyjoy,,,,,,,,,
+eustace-brune,Eustace Brune,,,,,,,,,
+ezzara,Ezzara,Targaryen,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+falyse-stokeworth,Falyse Stokeworth,Lannister,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+farlen,Farlen,Stark,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+florian-the-fool,Florian the Fool,,,,,,,,,
+fogo,Fogo,None,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+forley-prester,Forley Prester,Lannister,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+franklyn-flowers,Franklyn Flowers,,,,,,,,,
+franklyn-fowler,Franklyn Fowler,,,,,,,,,
+frenken,Frenken,Lannister,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+frenya,Frenya,Wildling,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+fulk,Fulk,,,,,,,,,
+galazza-galare,Galazza Galare,None,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+galbart-glover,Galbart Glover,Stark,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+galyeon-of-cuy,Galyeon of Cuy,,,,,,,,,
+gared,Gared,Night's Watch,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+garin-(orphan),Garin (orphan),Martell,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+gariss,Gariss,Stark,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+garlan-tyrell,Garlan Tyrell,Tyrell,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+garrett-paege,Garrett Paege,Lannister,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+garth-(wolfs-den),Garth (Wolfs Den),,,,,,,,,
+garth-greyfeather,Garth Greyfeather,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+garth-tyrell,Garth Tyrell,,,,,,,,,
+gawen-westerling,Gawen Westerling,Stark,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+gelmarr,Gelmarr,Greyjoy,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+gendel,Gendel,,,,,,,,,
+gendry,Gendry,None,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0
+genna-lannister,Genna Lannister,Lannister,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+gerald-gower,Gerald Gower,Baratheon,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+gerold-dayne,Gerold Dayne,Martell,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+gerold-grafton,Gerold Grafton,,,,,,,,,
+gerold-hightower,Gerold Hightower,,,,,,,,,
+gerrick-kingsblood,Gerrick Kingsblood,,,,,,,,,
+gerris-drinkwater,Gerris Drinkwater,Martell,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+ghael,Ghael,None,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+gilly,Gilly,Wildling,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+gilwood-hunter,Gilwood Hunter,Arryn,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+godric-borrell,Godric Borrell,None,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+godry-farring,Godry Farring,Baratheon,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+goghor-the-giant,Goghor the Giant,,,,,,,,,
+gormon-tyrell,Gormon Tyrell,,,,,,,,,
+gormond-goodbrother,Gormond Goodbrother,Greyjoy,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+gorne,Gorne,,,,,,,,,
+gorold-goodbrother,Gorold Goodbrother,Greyjoy,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+grazdan-mo-eraz,Grazdan mo Eraz,None,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+grazhar,Grazhar,,,,,,,,,
+greenbeard,Greenbeard,,,,,,,,,
+gregor-clegane,Gregor Clegane,Lannister,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+grenn,Grenn,Night's Watch,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0
+gretchel,Gretchel,,,,,,,,,
+grey-worm,Grey Worm,Targaryen,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+greydon-goodbrother,Greydon Goodbrother,Greyjoy,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+grigg,Grigg,Wildling,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+grimtongue,Grimtongue,,,,,,,,,
+grisel,Grisel,None,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+groleo,Groleo,Targaryen,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+grunt,Grunt,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+guncer-sunglass,Guncer Sunglass,Baratheon,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0
+gunthor-son-of-gurn,Gunthor son of Gurn,,,,,,,,,
+guyard-morrigen,Guyard Morrigen,Baratheon,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+gyles-grafton,Gyles Grafton,Arryn,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+gyles-rosby,Gyles Rosby,Lannister,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+gynir,Gynir,Greyjoy,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+hagen,Hagen,,,,,,,,,
+haggo,Haggo,None,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+haggon,Haggon,,,,,,,,,
+hairy-hal,Hairy Hal,Night's Watch,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+hake,Hake,Night's Watch,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0
+halder,Halder,Night's Watch,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+haldon,Haldon,Targaryen,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+hali,Hali,Wildling,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+hallis-mollen,Hallis Mollen,Stark,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+hallyne,Hallyne,Lannister,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+halys-hornwood,Halys Hornwood,Stark,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+hareth-(moles-town),Hareth (Moles Town),,,,,,,,,
+harl,Harl,,,,,,,,,
+harma,Harma,Wildling,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+harra,Harra,None,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+harras-harlaw,Harras Harlaw,Greyjoy,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+harren-hoare,Harren Hoare,,,,,,,,,
+harrold-hardyng,Harrold Hardyng,,,,,,,,,
+harry-strickland,Harry Strickland,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+harwin,Harwin,Stark,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+harwood-stout,Harwood Stout,Stark,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+harys-swyft,Harys Swyft,Lannister,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+hayhead,Hayhead,,,,,,,,,
+helman-tallhart,Helman Tallhart,Stark,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+hero,Hero,,,,,,,,,
+heward,Heward,Stark,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+high-septon-(fat_one),High Septon (fat one),,,,,,,,,
+high-septon-(tyrions),High Septon (Tyrions),,,,,,,,,
+high-sparrow,High Sparrow,None,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+hizdahr-zo-loraq,Hizdahr zo Loraq,,,,,,,,,
+hobb,Hobb,Night's Watch,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+hobber-redwyne,Hobber Redwyne,Tyrell,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+hodor,Hodor,Stark,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0
+holly,Holly,Wildling,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+hop-robin,Hop Robin,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+horas-redwyne,Horas Redwyne,Tyrell,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+horton-redfort,Horton Redfort,Arryn,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+hosteen-frey,Hosteen Frey,None,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0
+hoster-blackwood,Hoster Blackwood,,,,,,,,,
+hoster-tully,Hoster Tully,Tully,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+hot-pie,Hot Pie,None,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+hother-umber,Hother Umber,Stark,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+hotho-harlaw,Hotho Harlaw,,,,,,,,,
+howland-reed,Howland Reed,,,,,,,,,
+hugh,Hugh,Arryn,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+hugh-hungerford,Hugh Hungerford,,,,,,,,,
+hugo-vance,Hugo Vance,Tully,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+hullen,Hullen,Stark,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+humfrey-hewett,Humfrey Hewett,,,,,,,,,
+husband,Husband,None,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+hyle-hunt,Hyle Hunt,None,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+illifer,Illifer,,,,,,,,,
+illyrio-mopatis,Illyrio Mopatis,Targaryen,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+ilyn-payne,Ilyn Payne,Lannister,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+imry-florent,Imry Florent,Baratheon,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0
+irri,Irri,Targaryen,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0
+jacelyn-bywater,Jacelyn Bywater,Lannister,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+jack-be-lucky,Jack Be Lucky,None,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+jack-bulwer,Jack Bulwer,Night's Watch,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+jacks,Jacks,Stark,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+jaehaerys-i-targaryen,Jaehaerys I Targaryen,,,,,,,,,
+jafer-flowers,Jafer Flowers,,,,,,,,,
+jaime-lannister,Jaime Lannister,Lannister,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+jalabhar-xho,Jalabhar Xho,None,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+janos-slynt,Janos Slynt,None,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+jaqen-hghar,Jaqen Hghar,,,,,,,,,
+jared-frey,Jared Frey,None,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0
+jaremy-rykker,Jaremy Rykker,Night's Watch,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+jarl,Jarl,Wildling,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+jarman-buckwell,Jarman Buckwell,Night's Watch,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0
+jason-mallister,Jason Mallister,Stark,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+jeor-mormont,Jeor Mormont,Night's Watch,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+jeyne-farman,Jeyne Farman,,,,,,,,,
+jeyne-heddle,Jeyne Heddle,,,,,,,,,
+jeyne-poole,Jeyne Poole,Stark,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0
+jeyne-westerling,Jeyne Westerling,Stark,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+jhiqui,Jhiqui,Targaryen,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0
+jhogo,Jhogo,Targaryen,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0
+joanna-lannister,Joanna Lannister,,,,,,,,,
+jocelyn-swyft,Jocelyn Swyft,Lannister,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0
+joffrey-baratheon,Joffrey Baratheon,Lannister,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+jojen-reed,Jojen Reed,Stark,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+jommo,Jommo,,,,,,,,,
+jon-arryn,Jon Arryn,,,,,,,,,
+jon-connington,Jon Connington,Targaryen,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+jon-fossoway,Jon Fossoway,Baratheon,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+jon-snow,Jon Snow,Night's Watch,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+jon-umber-(greatjon),Jon Umber (Greatjon),Stark,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+jon-umber-(smalljon),Jon Umber (Smalljon),Stark,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+jonos-bracken,Jonos Bracken,Tully,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0
+jonothor-darry,Jonothor Darry,,,,,,,,,
+jonquil,Jonquil,,,,,,,,,
+jorah-mormont,Jorah Mormont,Targaryen,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0
+joramun,Joramun,,,,,,,,,
+jory-cassel,Jory Cassel,Stark,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+joseth,Joseth,Stark,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+josmyn-peckledon,Josmyn Peckledon,Lannister,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+joss,Joss,None,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+joy-hill,Joy Hill,,,,,,,,,
+justin-massey,Justin Massey,Baratheon,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+jyck,Jyck,Lannister,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+karyl-vance,Karyl Vance,Tully,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+kasporio,Kasporio,,,,,,,,,
+kedry,Kedry,,,,,,,,,
+kegs,Kegs,,,,,,,,,
+kella,Kella,None,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+kerwin,Kerwin,Tyrell,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+kevan-lannister,Kevan Lannister,Lannister,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+khorane-sathmantes,Khorane Sathmantes,None,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+khrazz,Khrazz,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+kindly-man,Kindly Man,None,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+kojja-mo,Kojja Mo,None,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+koss,Koss,Night's Watch,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+kraznys-mo-nakloz,Kraznys mo Nakloz,None,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+kurleket,Kurleket,None,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+kurz,Kurz,Night's Watch,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+kyra,Kyra,Stark,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0
+lambert-turnberry,Lambert Turnberry,Lannister,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+lamprey,Lamprey,Baratheon,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+lancel-lannister,Lancel Lannister,Lannister,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+lanna-(happy-port),Lanna (Happy Port),None,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+lark,Lark,Night's Watch,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+larraq,Larraq,Targaryen,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+leaf,Leaf,,,,,,,,,
+leathers,Leathers,Night's Watch,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+lem,Lem,None,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+lemore,Lemore,,,,,,,,,
+leo-lefford,Leo Lefford,Lannister,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+leo-tyrell,Leo Tyrell,Tyrell,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+leobald-tallhart,Leobald Tallhart,Stark,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+leona-woolfield,Leona Woolfield,Stark,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+leonette-fossoway,Leonette Fossoway,Tyrell,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+lewyn-martell,Lewyn Martell,,,,,,,,,
+lewys-piper,Lewys Piper,Lannister,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+lollys-stokeworth,Lollys Stokeworth,Lannister,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+lommy-greenhands,Lommy Greenhands,,,,,,,,,
+longwater-pyke,Longwater Pyke,,,,,,,,,
+loras-tyrell,Loras Tyrell,Tyrell,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+lorent-caswell,Lorent Caswell,Baratheon,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+lorren,Lorren,Greyjoy,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+lothar-frey,Lothar Frey,None,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+lothor-brune,Lothor Brune,None,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+lucas-codd,Lucas Codd,Greyjoy,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+lucifer-long,Lucifer Long,,,,,,,,,
+luton,Luton,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+luwin,Luwin,Stark,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+lyanna-mormont,Lyanna Mormont,,,,,,,,,
+lyanna-stark,Lyanna Stark,,,,,,,,,
+lyle-crakehall,Lyle Crakehall,Lannister,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+lyn-corbray,Lyn Corbray,Arryn,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+lynesse-hightower,Lynesse Hightower,,,,,,,,,
+lyonel-corbray,Lyonel Corbray,,,,,,,,,
+lysa-arryn,Lysa Arryn,,,,,,,,,
+lysono-maar,Lysono Maar,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+mace-tyrell,Mace Tyrell,Tyrell,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+mad-huntsman,Mad Huntsman,None,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+maddy,Maddy,,,,,,,,,
+maege-mormont,Maege Mormont,Stark,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+maegor-i-targaryen,Maegor I Targaryen,,,,,,,,,
+maekar-i-targaryen,Maekar I Targaryen,,,,,,,,,
+mag-mar-tun-doh-weg,Mag Mar Tun Doh Weg,Wildling,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+maggy,Maggy,,,,,,,,,
+malaquo-maegyr,Malaquo Maegyr,,,,,,,,,
+malegorn,Malegorn,,,,,,,,,
+mallador-locke,Mallador Locke,Night's Watch,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+mance-rayder,Mance Rayder,Wildling,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+mandon-moore,Mandon Moore,Baratheon,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+manfrey-martell,Manfrey Martell,,,,,,,,,
+margaery-tyrell,Margaery Tyrell,Tyrell,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+marghaz-zo-loraq,Marghaz zo Loraq,,,,,,,,,
+marillion,Marillion,Arryn,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0
+mariya-darry,Mariya Darry,None,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+mark-mullendore,Mark Mullendore,Tully,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+marlon-manderly,Marlon Manderly,Stark,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+maron-greyjoy,Maron Greyjoy,,,,,,,,,
+marq-piper,Marq Piper,Tully,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+marselen,Marselen,,,,,,,,,
+martyn-lannister,Martyn Lannister,,,,,,,,,
+martyn-rivers,Martyn Rivers,None,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+marwyn,Marwyn,None,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+marya-seaworth,Marya Seaworth,,,,,,,,,
+masha-heddle,Masha Heddle,Tully,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+mathis-rowan,Mathis Rowan,Lannister,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+matthar,Matthar,Night's Watch,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+matthos-seaworth,Matthos Seaworth,Baratheon,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+mebble,Mebble,None,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+meera-reed,Meera Reed,Stark,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+megga-tyrell,Megga Tyrell,Tyrell,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+melara-hetherspoon,Melara Hetherspoon,,,,,,,,,
+meldred-merlyn,Meldred Merlyn,Greyjoy,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+melisandre,Melisandre,Baratheon,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0
+mellei,Mellei,Martell,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+meralyn,Meralyn,,,,,,,,,
+meribald,Meribald,None,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+meris,Meris,,,,,,,,,
+mero,Mero,None,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+merrett-frey,Merrett Frey,None,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+merrit,Merrit,,,,,,,,,
+meryn-trant,Meryn Trant,Lannister,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+mezzara,Mezzara,None,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+mikken,Mikken,Stark,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+miklaz,Miklaz,None,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+mirri-maz-duur,Mirri Maz Duur,None,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+missandei,Missandei,Targaryen,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+moelle,Moelle,,,,,,,,,
+mollander,Mollander,None,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+monford-velaryon,Monford Velaryon,Baratheon,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+moon-boy,Moon Boy,Baratheon,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0
+moqorro,Moqorro,Greyjoy,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+mord,Mord,Arryn,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+mordane,Mordane,Stark,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+moreo-tumitis,Moreo Tumitis,None,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+morgo,Morgo,,,,,,,,,
+morra,Morra,Martell,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+morrec,Morrec,Lannister,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+mors-umber,Mors Umber,Stark,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+mully,Mully,Night's Watch,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+munda,Munda,,,,,,,,,
+murch-(winterfell),Murch (Winterfell),Stark,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+murenmure,Murenmure,Greyjoy,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+mya-stone,Mya Stone,Arryn,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+mycah,Mycah,Stark,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+mychel-redfort,Mychel Redfort,,,,,,,,,
+myles-toyne,Myles Toyne,,,,,,,,,
+myranda-royce,Myranda Royce,Arryn,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+myrcella-baratheon,Myrcella Baratheon,Lannister,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+nage,Nage,None,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+nan,Nan,Stark,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+narbert,Narbert,None,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+narbert-grandison,Narbert Grandison,,,,,,,,,
+nestor-royce,Nestor Royce,Arryn,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+nurse,Nurse,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+nute,Nute,Greyjoy,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+nyessos-vhassar,Nyessos Vhassar,,,,,,,,,
+nymeria-sand,Nymeria Sand,Martell,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0
+obara-sand,Obara Sand,Martell,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0
+oberyn-martell,Oberyn Martell,Martell,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+ogo,Ogo,None,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+old-bill-bone,Old Bill Bone,,,,,,,,,
+olenna-redwyne,Olenna Redwyne,Tyrell,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+olyvar-frey,Olyvar Frey,None,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+orell,Orell,Wildling,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+orton-merryweather,Orton Merryweather,Lannister,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+osfryd-kettleblack,Osfryd Kettleblack,Lannister,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+osha,Osha,Stark,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+osmund-kettleblack,Osmund Kettleblack,Lannister,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+osney-kettleblack,Osney Kettleblack,Lannister,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+oswell-kettleblack,Oswell Kettleblack,None,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+oswell-whent,Oswell Whent,,,,,,,,,
+othell-yarwyck,Othell Yarwyck,Night's Watch,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+othor,Othor,,,,,,,,,
+ottyn-wythers,Ottyn Wythers,Night's Watch,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+owen,Owen,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+owen-merryweather,Owen Merryweather,,,,,,,,,
+oznak-zo-pahl,Oznak zo Pahl,None,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+palla,Palla,Stark,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+patchface,Patchface,Baratheon,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0
+pate-(novice),Pate (novice),None,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+pate-(old),Pate (Old),None,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+pate-(whipping-boy),Pate (whipping boy),,,,,,,,,
+patrek-of-kings-mountain,Patrek of Kings Mountain,,,,,,,,,
+paxter-redwyne,Paxter Redwyne,Tyrell,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+penny,Penny,None,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+perwyn-frey,Perwyn Frey,None,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+petyr-baelish,Petyr Baelish,None,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0
+petyr-frey,Petyr Frey,None,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+pia,Pia,None,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+podrick-payne,Podrick Payne,Lannister,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+polliver,Polliver,None,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+pono,Pono,None,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+porridge,Porridge,Baratheon,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+porther,Porther,Stark,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+poxy-tym,Poxy Tym,Stark,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+praed,Praed,None,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+prendahl-na-ghezn,Prendahl na Ghezn,None,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+preston-greenfield,Preston Greenfield,Baratheon,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+puckens,Puckens,,,,,,,,,
+pyat-pree,Pyat Pree,None,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+pycelle,Pycelle,Lannister,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+pyg,Pyg,None,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0
+pylos,Pylos,Baratheon,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+pypar,Pypar,Night's Watch,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0
+qarl-the-maid,Qarl the Maid,Greyjoy,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0
+qavo-nogarys,Qavo Nogarys,,,,,,,,,
+qezza,Qezza,None,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+qhorin-halfhand,Qhorin Halfhand,Night's Watch,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+qotho,Qotho,None,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+quaithe,Quaithe,None,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+quaro,Quaro,Targaryen,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+quellon-greyjoy,Quellon Greyjoy,,,,,,,,,
+quentyn-martell,Quentyn Martell,Martell,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+quhuru-mo,Quhuru Mo,None,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+quill,Quill,,,,,,,,,
+qyburn,Qyburn,Lannister,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+rafford,Rafford,None,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+ragwyle,Ragwyle,Wildling,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+rakharo,Rakharo,Targaryen,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0
+ralf-(limper),Ralf (Limper),,,,,,,,,
+ralf-stonehouse,Ralf Stonehouse,Greyjoy,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+ramsay-snow,Ramsay Snow,None,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+randyll-tarly,Randyll Tarly,Tyrell,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0
+rast,Rast,Night's Watch,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+rattleshirt,Rattleshirt,,,,,,,,,
+ravella-swann,Ravella Swann,Tully,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+raymun-darry,Raymun Darry,Targaryen,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+raymun-redbeard,Raymun Redbeard,,,,,,,,,
+raynald-westerling,Raynald Westerling,Stark,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0
+raynard,Raynard,,,,,,,,,
+red-oarsman,Red Oarsman,,,,,,,,,
+reek,Reek,None,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+renly-baratheon,Renly Baratheon,Baratheon,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+rennifer-longwaters,Rennifer Longwaters,,,,,,,,,
+reznak-mo-reznak,Reznak mo Reznak,None,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+rhaegar-frey,Rhaegar Frey,None,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+rhaegar-targaryen,Rhaegar Targaryen,,,,,,,,,
+rhaegel-targaryen,Rhaegel Targaryen,,,,,,,,,
+rhaego,Rhaego,,,,,,,,,
+rhaella-targaryen,Rhaella Targaryen,,,,,,,,,
+rhaenys-targaryen,Rhaenys Targaryen,,,,,,,,,
+rhaenys-targaryen-(daughter-of-rhaegar),Rhaenys Targaryen (daughter of Rhaegar),,,,,,,,,
+ricasso,Ricasso,Martell,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+richard-horpe,Richard Horpe,Baratheon,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+rickard-karstark,Rickard Karstark,Stark,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+rickard-stark,Rickard Stark,,,,,,,,,
+rickon-stark,Rickon Stark,Stark,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+robar-royce,Robar Royce,Baratheon,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+robb-stark,Robb Stark,Stark,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+robert-arryn,Robert Arryn,Arryn,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+robert-baratheon,Robert Baratheon,Baratheon,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+robert-strong,Robert Strong,,,,,,,,,
+robett-glover,Robett Glover,Stark,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0
+robin-flint,Robin Flint,Stark,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+robin-ryger,Robin Ryger,Tully,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+rodrik-cassel,Rodrik Cassel,Stark,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+rodrik-harlaw,Rodrik Harlaw,Greyjoy,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+rodrik-sparr,Rodrik Sparr,,,,,,,,,
+roger-ryswell,Roger Ryswell,Stark,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+rolfe-the-dwarf,Rolfe the Dwarf,Greyjoy,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+rollam-westerling,Rollam Westerling,Stark,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+rolly-duckfield,Rolly Duckfield,Targaryen,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+rolph-spicer,Rolph Spicer,Lannister,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+ronnet-connington,Ronnet Connington,Baratheon,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0
+roone,Roone,,,,,,,,,
+roose-bolton,Roose Bolton,Stark,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0
+roose-ryswell,Roose Ryswell,None,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+rorge,Rorge,None,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+rory,Rory,,,,,,,,,
+rosey,Rosey,,,,,,,,,
+roslin-frey,Roslin Frey,None,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+rossart,Rossart,,,,,,,,,
+rowan,Rowan,Wildling,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+rugen,Rugen,,,,,,,,,
+rus,Rus,,,,,,,,,
+ryk,Ryk,Wildling,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+ryman-frey,Ryman Frey,None,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0
+salladhor-saan,Salladhor Saan,Baratheon,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+sallor,Sallor,None,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+samwell-tarly,Samwell Tarly,Night's Watch,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+sandor-clegane,Sandor Clegane,None,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+sansa-stark,Sansa Stark,Stark,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+sarella-sand,Sarella Sand,Martell,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+satin,Satin,Night's Watch,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0
+sawane-botley,Sawane Botley,Greyjoy,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+scar,Scar,,,,,,,,,
+scolera,Scolera,,,,,,,,,
+selwyn-tarth,Selwyn Tarth,,,,,,,,,
+selyse-florent,Selyse Florent,Baratheon,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+senelle,Senelle,Lannister,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+shadd,Shadd,,,,,,,,,
+shadrich,Shadrich,None,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+shae,Shae,Lannister,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0
+shagga,Shagga,Lannister,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+shagwell,Shagwell,None,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+sharna,Sharna,None,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+shireen-baratheon,Shireen Baratheon,Baratheon,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+shitmouth,Shitmouth,,,,,,,,,
+shortear,Shortear,,,,,,,,,
+shrouded-lord,Shrouded Lord,,,,,,,,,
+sigfryd-harlaw,Sigfryd Harlaw,,,,,,,,,
+sigorn,Sigorn,,,,,,,,,
+simon-toyne,Simon Toyne,,,,,,,,,
+skahaz-mo-kandaq,Skahaz mo Kandaq,None,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+skinner,Skinner,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+small-paul,Small Paul,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+smiling-knight,Smiling Knight,,,,,,,,,
+softfoot,Softfoot,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+soren-shieldbreaker,Soren Shieldbreaker,,,,,,,,,
+sour-alyn,Sour Alyn,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+spare-boot,Spare Boot,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+spotted-cat,Spotted Cat,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+squint,Squint,Greyjoy,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+squirrel,Squirrel,Wildling,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+stafford-lannister,Stafford Lannister,,,,,,,,,
+stannis-baratheon,Stannis Baratheon,,,,,,,,,
+steelskin,Steelskin,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+steffon-baratheon,Steffon Baratheon,,,,,,,,,
+steffon-varner,Steffon Varner,,,,,,,,,
+stevron-frey,Stevron Frey,Stark,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+stiv,Stiv,Wildling,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+stonesnake,Stonesnake,Night's Watch,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+stygg,Stygg,Greyjoy,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+styr,Styr,Wildling,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+sweets,Sweets,,,,,,,,,
+sybell-spicer,Sybell Spicer,Lannister,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+sybelle-glover,Sybelle Glover,Stark,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+sylva-santagar,Sylva Santagar,Martell,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+symon-silver-tongue,Symon Silver Tongue,Lannister,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+symon-stripeback,Symon Stripeback,Targaryen,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+symond-templeton,Symond Templeton,Arryn,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+syrio-forel,Syrio Forel,Stark,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+taena-of-myr,Taena of Myr,Lannister,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+talbert-serry,Talbert Serry,Tyrell,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+talea,Talea,,,,,,,,,
+tallad,Tallad,Lannister,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+tanda-stokeworth,Tanda Stokeworth,Lannister,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0
+tansy,Tansy,,,,,,,,,
+tarber,Tarber,,,,,,,,,
+tattered-prince,Tattered Prince,,,,,,,,,
+ternesio-terys,Ternesio Terys,None,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+terrance-lynderly,Terrance Lynderly,Arryn,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+theobald,Theobald,,,,,,,,,
+theomore,Theomore,,,,,,,,,
+theon-greyjoy,Theon Greyjoy,Greyjoy,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0
+thistle,Thistle,Wildling,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+thoren-smallwood,Thoren Smallwood,Night's Watch,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0
+thoros-of-myr,Thoros of Myr,,,,,,,,,
+tickler,Tickler,Lannister,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+timeon,Timeon,None,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0
+timett,Timett,Lannister,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+timoth,Timoth,,,,,,,,,
+tion-frey,Tion Frey,Lannister,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+tobho-mott,Tobho Mott,None,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+todder,Todder,Night's Watch,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+tom-barleycorn,Tom Barleycorn,,,,,,,,,
+tom-of-sevenstreams,Tom of Sevenstreams,None,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+tomard,Tomard,Stark,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+tommen-baratheon,Tommen Baratheon,,,,,,,,,
+torbert,Torbert,,,,,,,,,
+toregg,Toregg,,,,,,,,,
+torghen-flint,Torghen Flint,,,,,,,,,
+torgon-greyiron,Torgon Greyiron,,,,,,,,,
+tormund,Tormund,Wildling,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+torrhen-karstark,Torrhen Karstark,Stark,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+torrhen-stark,Torrhen Stark,,,,,,,,,
+torwold-browntooth,Torwold Browntooth,,,,,,,,,
+tregar,Tregar,Lannister,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+tristifer-botley,Tristifer Botley,Greyjoy,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0
+tristifer-iv-mudd,Tristifer IV Mudd,,,,,,,,,
+trystane-martell,Trystane Martell,,,,,,,,,
+tybero-istarion,Tybero Istarion,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+tycho-nestoris,Tycho Nestoris,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+tyene-sand,Tyene Sand,Martell,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0
+tyrion-lannister,Tyrion Lannister,Lannister,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0
+tysha,Tysha,,,,,,,,,
+tytos-blackwood,Tytos Blackwood,Tully,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0
+tywin-lannister,Tywin Lannister,Lannister,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+ulf-son-of-umar,Ulf son of Umar,Lannister,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+ulmer,Ulmer,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+umma,Umma,,,,,,,,,
+unella,Unella,None,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+urswyck,Urswyck,None,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+urzen,Urzen,,,,,,,,,
+utherydes-wayn,Utherydes Wayn,Tully,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+val,Val,Wildling,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+varamyr,Varamyr,Wildling,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+vardis-egen,Vardis Egen,Arryn,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+vargo-hoat,Vargo Hoat,None,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+varly,Varly,,,,,,,,,
+varys,Varys,Targaryen,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0
+vayon-poole,Vayon Poole,Stark,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+victarion-greyjoy,Victarion Greyjoy,Greyjoy,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0
+visenya-targaryen,Visenya Targaryen,,,,,,,,,
+viserys-targaryen,Viserys Targaryen,Targaryen,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+vylarr,Vylarr,Lannister,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+vyman,Vyman,Tully,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+waif,Waif,None,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+walda-frey-(daughter-of-merrett),Walda Frey (daughter of Merrett),,,,,,,,,
+walder-frey,Walder Frey,None,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+walder-frey-(son-of-jammos),Walder Frey (son of Jammos),None,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0
+walder-frey-(son-of-merrett),Walder Frey (son of Merrett),None,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0
+walder-rivers,Walder Rivers,None,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+walgrave,Walgrave,,,,,,,,,
+walton,Walton,None,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0
+watt,Watt,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+waymar-royce,Waymar Royce,Night's Watch,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+weasel,Weasel,None,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+weeper,Weeper,Wildling,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+weese,Weese,Lannister,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+wendel-manderly,Wendel Manderly,Stark,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+werlag,Werlag,Greyjoy,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+wex-pyke,Wex Pyke,Stark,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+wick-whittlestick,Wick Whittlestick,,,,,,,,,
+widower,Widower,,,,,,,,,
+will-(prologue),Will (prologue),Night's Watch,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+willam-dustin,Willam Dustin,,,,,,,,,
+willas-tyrell,Willas Tyrell,,,,,,,,,
+willem-lannister,Willem Lannister,Lannister,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+william-foxglove,William Foxglove,,,,,,,,,
+willis-wode,Willis Wode,Arryn,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+willow-heddle,Willow Heddle,,,,,,,,,
+willow-witch-eye,Willow Witch eye,Wildling,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+woth,Woth,Night's Watch,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+wulfe,Wulfe,Greyjoy,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+wun-weg-wun-dar-wun,Wun Weg Wun Dar Wun,Wildling,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+wyl-(guard),Wyl (guard),Stark,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+wylis-manderly,Wylis Manderly,Stark,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0
+wylla,Wylla,,,,,,,,,
+wyman-manderly,Wyman Manderly,Stark,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+wynton-stout,Wynton Stout,Night's Watch,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+xaro-xhoan-daxos,Xaro Xhoan Daxos,None,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+xhondo,Xhondo,None,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+yandry,Yandry,Targaryen,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+yellow-dick,Yellow Dick,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+yezzan-zo-qaggaz,Yezzan zo Qaggaz,None,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+ygritte,Ygritte,Wildling,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+yohn-royce,Yohn Royce,Arryn,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+yoren,Yoren,Night's Watch,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+yorko-terys,Yorko Terys,,,,,,,,,
+ysilla,Ysilla,Targaryen,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+yurkhaz-zo-yunzak,Yurkhaz zo Yunzak,None,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+zei,Zei,Stark,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+zollo,Zollo,None,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
